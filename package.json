@@ -2,7 +2,7 @@
   "name": "xml-analyzer-demo",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "lib/dom-analyzer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
